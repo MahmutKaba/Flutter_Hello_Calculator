@@ -1,4 +1,4 @@
-# carpimtablosu
+# Çarpim Tablosu
 
 A new Flutter project.
 
